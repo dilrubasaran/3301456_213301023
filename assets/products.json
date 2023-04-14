@@ -1,0 +1,86 @@
+[
+    {
+        "id":1,
+        "name": "elbise1",
+        "price": 100,
+        "image": "/images/products/elbise1.jpg",
+        "star": 4.3
+    },
+    {
+        "id":2,
+        "name": "elbise2",
+        "price": 400,
+        "image": "/images/products/elbise2.jpg",
+        "star": 4.5
+    },
+    {
+        "id":3,
+        "name": "t-shirt1",
+        "price": 150,
+        "image": "/images/products/t_shirt1.jpg",
+        "star": 3.9
+    },
+    {
+        "id":4,
+        "name": "t-shirt2",
+        "price": 120,
+        "image": "/images/products/t_shirt2.jpg",
+        "star": 4.2
+    },
+    {
+        "id":5,
+        "name": "ceket1",
+        "price": 600,
+        "image": "/images/products/ceket1.jpg",
+        "star": 4.7
+    },
+    {
+        "id":6,
+        "name": "ceket2",
+        "price": 800,
+        "image": "/images/products/ceket2.jpg",
+        "star": 4.3
+    },
+    {
+        "id":7,
+        "name": "ayakkabı1",
+        "price": 400,
+        "image": "/images/products/ayakkabi1.jpg",
+        "star": 4.1
+    },
+    {
+        "id":8,
+        "name": "ayakkabı2",
+        "price": 500,
+        "image": "/images/products/ayakkabi2.jpg",
+        "star": 4.8
+    },
+    {
+        "id":9,
+        "name": "pant1",
+        "price": 100,
+        "image": "/images/products/pant1.jpg",
+        "star": 4.3
+    },
+    {
+        "id":10,
+        "name": "pant2",
+        "price": 100,
+        "image": "/images/products/pant2.jpg",
+        "star": 4.3
+    },
+    {
+        "id":11,
+        "name": "kaban1",
+        "price": 100,
+        "image": "/images/products/kaban1.jpg",
+        "star": 4.3
+    },
+    {
+        "id":12,
+        "name": "kaban2",
+        "price": 100,
+        "image": "/images/products/kaban2.jpg",
+        "star": 4.3
+    }
+]
